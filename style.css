@@ -1,0 +1,88 @@
+header{
+    min-height: 5em;
+}
+body{
+    background-color: white;
+    overflow-x: hidden;
+}
+/* Lorem ipsum{
+    text-;
+} */
+.bg-blue{
+    background-color: blue;
+}
+.cat-pic{
+    height: 15rem;
+    width: 15rem;
+    object-fit: cover;
+}
+.title{
+    margin: 0;
+    padding: 1em;
+}
+.card{
+    margin: 0;
+    border: solid 1px blue;
+    border-radius: 10px;
+    /* padding: 1em; */
+    }
+.card-2{
+    max-width: 50%;
+    margin-top: 1rem;
+}
+.card-3{
+    max-width: 30%;
+    margin-top: 3rem;
+}
+
+.card-4{
+    /* border: solid 10em blue; */
+    /* border-color: blue;
+    border-style: solid; */
+    /* border-left-width: 100vw; */
+    top:600px;
+    background-color: blue;
+    height: 3em;
+
+  
+}
+.d-flex{
+    display: flex;
+    flex-wrap: wrap;
+}
+.flex-center{
+    justify-content: center;
+}
+.flex-end{
+    justify-content: end;
+}
+/* .foot-flex{
+position: absolute;
+
+} */
+.postition-relative{
+    position: relative;
+}
+.align-items-end{
+    align-items: flex-end;
+}
+.align-items-center{
+    align-items: center;
+}
+.p-title{
+    color: rgb(83, 83, 255);
+    border-top: solid 15px aqua;
+    width: fit-content;
+}
+.m-1{
+    margin: 0;
+}
+.m-2{
+    margin: 2em;
+}
+.p-1{
+    padding: 1em;
+}
+.p-2{
+    padding: 1.5em;
+}
